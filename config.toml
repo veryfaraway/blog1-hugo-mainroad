@@ -1,18 +1,24 @@
 baseurl = "/"
-title = "Mainroad"
-languageCode = "en-us"
-paginate = "10" # Number of posts per page
+title = "겨자씨"
+#languageCode = "en-us"
+languageCode = "ko"
+paginate = "5" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+googleAnalytics = "G-Z320PYZ29Q" # Enable Google Analytics by entering your tracking id
+
+[permalinks]
+  posts = '/:section/:yearday/:yearday/:slug/'
+  page = '/:section/:slug/'
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "img/avatar.png"
+  name = "야근반장"
+  bio = "이직 후 첫날 해야할 일 - 다음 이직 준비"
+  avatar = "img/avatar.jpg"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  # Description of your site
+  description = "믿음을 가지세요" 
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
@@ -22,13 +28,20 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   mainSections = ["post", "docs"]
 
 [Params.logo]
-  subtitle = "Just another site" # Logo subtitle
+  #image = "/img/logo-tree.svg"
+  image = "/img/logo-tree2.svg"
+  title = "겨자씨"
+  subtitle = "너희가 만일 믿음이 한 겨자씨만큼만 있으면 ... 너희가 못할 것이 없으리라"
+
+[Params.thumbnail]
+  # list, post
+  visibility = ["list", "post"]    
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
   list = "right"   # Configure layout for list pages
   single = "right" # Configure layout for single pages
-  # Enable widgets in given order
+  # Enable widgets in given order ex) search, ddg-search, recent, categories, taglist, social, languages
   widgets = ["search", "recent", "categories", "taglist"]
 
 [Params.widgets]

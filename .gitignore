@@ -1,3 +1,6 @@
+### VS Code ###
+.vscode/
+
 public
 resources
 assets/jsconfig.json
