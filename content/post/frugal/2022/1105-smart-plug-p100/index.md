@@ -7,7 +7,7 @@ date: 2022-11-05
 lastmod: 2022-11-05
 author: "야근반장"
 slug: "tapo-p100"
-thumbnail: "https://static.tp-link.com/Tapo-P100_Thumb_3_2000x2000_normal_1615962045312l.jpg"
+thumbnail: "https://images.unsplash.com/photo-1558002038-1055907df827?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format"
 categories: [ "자린고비" ]
 tags:
     - 알뜰구매
