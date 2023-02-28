@@ -4,13 +4,15 @@ title = "겨자씨"
 languageCode = "ko"
 paginate = "5" # Number of posts per page
 theme = "mainroad"
+copyright = "&copy;{year}, All Rights Reserved"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "G-Z320PYZ29Q" # Enable Google Analytics by entering your tracking id
 
 enableRobotsTXT = true
+enableEmoji = true
 
 [permalinks]
-  posts = '/:section/:yearday/:yearday/:slug/'
+  posts = '/:section/:year/:yearday/:slug/'
   page = '/:section/:slug/'
 
 [Author]

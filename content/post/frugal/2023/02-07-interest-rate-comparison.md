@@ -1,6 +1,7 @@
 ---
 layout: post 
 title: "파킹통장 금리 비교(2023/02/07)"
+slug: interest-rate-comparison
 description: "고금리 시대 목돈 굴리기"
 date: 2023-02-07
 author: "야근반장"
