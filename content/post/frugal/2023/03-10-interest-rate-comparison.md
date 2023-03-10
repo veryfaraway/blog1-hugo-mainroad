@@ -1,11 +1,11 @@
 ---
 layout: post 
-title: "파킹통장 금리 비교(2023/02/07)"
-slug: interest-rate-comparison
+title: "파킹통장 금리 비교(2023/03/10)"
+slug: interest-rate-comparison-20230310
 description: "고금리 시대 목돈 굴리기"
-date: 2023-02-07
+date: 2023-03-10
 author: "야근반장"
-thumbnail: "https://images.unsplash.com/photo-1569025690938-a00729c9e1f9"
+thumbnail: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f"
 series: ["금리비교"]
 categories: [ "자린고비" ]
 tags:
@@ -19,9 +19,9 @@ tags:
 
 |기관|상품|내용|
 |------|---|---|
-|토스|토스뱅크 통장|5천만원 이하 연 2.3%, 5천만원 초과 연 4%|
+|토스|토스뱅크 통장|5천만원 이하 연 2.2%(0.1% ↓), 5천만원 초과 연 3.8%(0.2% ↓)|
 |미래에셋증권|CMA 발행어음형|연 3.70% |
-||CMA Wrap형|연 3.75% (수수료 0.05%)
+||CMA Wrap형|연 3.75% (수수료 0.15%) (수수료 0.1% ↑)
 ||CMA RP형|연 3.10%|
 |네이버|네이버페이 머니 하나 통장|연 4% (**100만원 한도**)|
 ||네이버통장(미래에셋)|1,000만원 이하 연 3.55%, 1,000만원 초과 연 3.10%|
